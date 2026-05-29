@@ -18,7 +18,7 @@
 </p>
 
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -31,7 +31,7 @@
 ## Personal Projects
 - [idont-notebook](https://github.com/disappear00/idont-notebook) - Lightweight notebook tool implemented in Rust
 
-## 🤝 Open Source Contributions
+## Open Source Contributions
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%94%A7-3%20Merged%20PRs-2ea44f?style=for-the-badge" />
 </p>
@@ -50,14 +50,14 @@
 
 
 
-## 📊 GitHub 统计
+## GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disappear00&theme=tokyonight&hide_border=true" />
 </p>
 
 
-## 📫 Contact Me
+## Contact Me
 <p align="center">
   <a href="https://github.com/disappear00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
