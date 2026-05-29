@@ -50,7 +50,7 @@
 
 
 
-## 📊 GitHub Stats
+## 📊 GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disappear00&theme=tokyonight&hide_border=true" />
