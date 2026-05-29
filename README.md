@@ -6,10 +6,9 @@
 </p>
 
 
-<h2 align="center">👋 Hello World!</h2>
+<h2 align="center">I close my eyes in order to see.</h2>
 <p align="center">
-  全栈开发者 | AI Agent 实践者 | 开源爱好者<br>
-  专注于构建高效、优雅的工具与应用
+  Coding lover<br>
 </p>
 
 <p align="center">
@@ -19,7 +18,7 @@
 </p>
 
 
-## 🛠️ 技术栈
+## 🛠️ Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
@@ -29,15 +28,15 @@
 </p>
 
 
-## 个人项目
-- [idont-notebook](https://github.com/disappear00/idont-notebook) - Rust 实现的轻量级笔记本工具
+## Personal Projects
+- [idont-notebook](https://github.com/disappear00/idont-notebook) - Lightweight notebook tool implemented in Rust
 
-## 🤝 开源贡献
+## 🤝 Open Source Contributions
 <p align="center">
   <img src="https://img.shields.io/badge/%F0%9F%94%A7-3%20Merged%20PRs-2ea44f?style=for-the-badge" />
 </p>
 
-### 已合并的 Pull Requests
+### Merged Pull Requests
 - **[Q00/ouroboros](https://github.com/Q00/ouroboros)**  
   `fix(tests): make Hermes runtime cwd assertions cross-platform`  
 
@@ -51,14 +50,14 @@
 
 
 
-## 📊 GitHub 统计
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disappear00&theme=tokyonight&hide_border=true" />
 </p>
 
 
-## 📫 联系我
+## 📫 Contact Me
 <p align="center">
   <a href="https://github.com/disappear00">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
