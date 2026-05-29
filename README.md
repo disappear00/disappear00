@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/%F0%9F%93%8D-Beijing-007ACC?style=flat-square" />
   <img src="https://img.shields.io/badge/%E2%9C%A8-223%20Contributions%20Last%20Year-FF6B6B?style=flat-square" />
 </p>
----
+
 
 ## 🛠️ 技术栈
 <p align="center">
@@ -28,19 +28,36 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
----
+
 
 ## 个人项目
 - [idont-notebook](https://github.com/disappear00/idont-notebook) - Rust 实现的轻量级笔记本工具
 
----
+## 🤝 开源贡献
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%94%A7-3%20Merged%20PRs-2ea44f?style=for-the-badge" />
+</p>
+
+### 已合并的 Pull Requests
+- **[Q00/ouroboros](https://github.com/Q00/ouroboros)**  
+  `fix(tests): make Hermes runtime cwd assertions cross-platform`  
+
+
+- **[soxoj/maigret](https://github.com/soxoj/maigret)**  
+  `Fix context field using class instead of instance in error handling`  
+
+
+- **[Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale)**  
+  `fix: code quality improvements and panic prevention`  
+
+
 
 ## 📊 GitHub 统计
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=disappear00&theme=tokyonight&hide_border=true" />
 </p>
----
+
 
 ## 📫 联系我
 <p align="center">
